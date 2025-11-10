@@ -3,7 +3,6 @@
  * AI 聊天助手的根组件，负责整体布局和组件组合
  */
 
-import { useState } from 'react'
 import ChatBox from './components/ChatBox'
 import './App.css'
 
