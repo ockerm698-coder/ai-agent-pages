@@ -1,1 +1,1 @@
-const password = '1234567
+const password = '1234567;
