@@ -1,1 +1,2 @@
-const password = '1234567;91w = w
+const password = "eqweqwe23";
+const token = "eqweqwe23as = dasdww
