@@ -1,2 +1,2 @@
 const password = "eqweqwe23";
-const token = "eqweqwe23as = dasdw
+const token = "eqweqwe23as = dasdwhdasda
